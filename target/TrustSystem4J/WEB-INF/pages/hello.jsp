@@ -1,9 +1,3 @@
-<%--<html>--%>
-<%--<body>--%>
-	<%--<h1>${message}</h1>--%>
-<%--</body>--%>
-<%--</html>--%>
-
 <%@ taglib uri="http://tiles.apache.org/tags-tiles" prefix="tiles" %>
 
 <tiles:insertDefinition name="defaultTemplate">
