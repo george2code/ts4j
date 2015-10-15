@@ -1,31 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="0a770e36-936f-462f-8f75-79dc3bcd76dd" name="Default" comment="">
-      <change type="DELETED" beforePath="D:\Development\TrustSystem4J\.idea\libraries\Maven__javax_servlet_servlet_api_2_5.xml" afterPath="" />
-      <change type="DELETED" beforePath="D:\Development\TrustSystem4J\.idea\libraries\slf4j_api_1_7_12.xml" afterPath="" />
-      <change type="DELETED" beforePath="D:\Development\TrustSystem4J\.idea\libraries\slf4j_simple_1_7_12.xml" afterPath="" />
-      <change type="DELETED" beforePath="D:\Development\TrustSystem4J\lib\slf4j-api-1.7.12.jar" afterPath="" />
-      <change type="DELETED" beforePath="D:\Development\TrustSystem4J\lib\slf4j-simple-1.7.12.jar" afterPath="" />
-      <change type="DELETED" beforePath="D:\Development\TrustSystem4J\target\TrustSystem4J\WEB-INF\lib\servlet-api-2.5.jar" afterPath="" />
-      <change type="DELETED" beforePath="D:\Development\TrustSystem4J\target\TrustSystem4J\WEB-INF\lib\slf4j-api-1.7.12.jar" afterPath="" />
-      <change type="DELETED" beforePath="D:\Development\TrustSystem4J\target\TrustSystem4J\WEB-INF\lib\slf4j-simple-1.7.12.jar" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/TrustSystem4J/WEB-INF/classes/ru/trustsystem/HelloController.class" afterPath="$PROJECT_DIR$/target/TrustSystem4J/WEB-INF/classes/ru/trustsystem/HelloController.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/ru/trustsystem/HelloController.class" afterPath="$PROJECT_DIR$/target/classes/ru/trustsystem/HelloController.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/TrustSystem4J.war" afterPath="$PROJECT_DIR$/target/TrustSystem4J.war" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/ru/trustsystem/HelloController.java" afterPath="$PROJECT_DIR$/src/main/java/ru/trustsystem/HelloController.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/ru/trustsystem/businesslogic/PageHelper.java" afterPath="$PROJECT_DIR$/src/main/java/ru/trustsystem/businesslogic/PageHelper.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/TrustSystem4J.iml" afterPath="$PROJECT_DIR$/TrustSystem4J.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/artifacts/TrustSystem4J_war.xml" afterPath="$PROJECT_DIR$/.idea/artifacts/TrustSystem4J_war.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/artifacts/TrustSystem4J_war_exploded.xml" afterPath="$PROJECT_DIR$/.idea/artifacts/TrustSystem4J_war_exploded.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/template/default/footer.jsp" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/template/default/footer.jsp" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/TrustSystem4J/WEB-INF/template/default/footer.jsp" afterPath="$PROJECT_DIR$/target/TrustSystem4J/WEB-INF/template/default/footer.jsp" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/fragments/login.jsp" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/fragments/login.jsp" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pom.xml" afterPath="$PROJECT_DIR$/pom.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/template/default/template.jsp" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/template/default/template.jsp" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/TrustSystem4J/WEB-INF/template/default/template.jsp" afterPath="$PROJECT_DIR$/target/TrustSystem4J/WEB-INF/template/default/template.jsp" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-    </list>
+    <list default="true" id="0a770e36-936f-462f-8f75-79dc3bcd76dd" name="Default" comment="" />
+    <list id="76ffdb9a-9b00-49cf-b5a4-35367d41e71b" name="New changelist" comment="" />
     <ignored path="TrustSystem4J.iws" />
     <ignored path=".idea/workspace.xml" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -60,8 +37,8 @@
       <file leaf-file-name="login.jsp" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/fragments/login.jsp">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.40117994">
-              <caret line="8" column="0" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
+            <state vertical-scroll-proportion="0.45132744">
+              <caret line="9" column="12" selection-start-line="9" selection-start-column="12" selection-end-line="9" selection-end-column="12" />
               <folding />
             </state>
           </provider>
@@ -1018,12 +995,13 @@
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
       <changelist id="0a770e36-936f-462f-8f75-79dc3bcd76dd" name="Default" comment="" />
+      <changelist id="76ffdb9a-9b00-49cf-b5a4-35367d41e71b" name="New changelist" comment="" />
       <created>1444934144959</created>
       <option name="number" value="Default" />
       <updated>1444934144959</updated>
       <workItem from="1444934146360" duration="10625000" />
       <workItem from="1444945263167" duration="130000" />
-      <workItem from="1444945513055" duration="816000" />
+      <workItem from="1444945513055" duration="871000" />
     </task>
     <task id="LOCAL-00001" summary="template UI base">
       <created>1444941857469</created>
@@ -1031,11 +1009,17 @@
       <option name="project" value="LOCAL" />
       <updated>1444941857469</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="footer depends from controller name">
+      <created>1444946349787</created>
+      <option name="number" value="00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1444946349787</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="11571000" />
+    <option name="totallyTimeSpent" value="11626000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
@@ -1052,7 +1036,7 @@
       <window_info id="Version Control" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32935154" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.53583616" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Spring" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32935154" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.2473525" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Web" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
@@ -1083,7 +1067,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="template UI base" />
-    <option name="LAST_COMMIT_MESSAGE" value="template UI base" />
+    <MESSAGE value="footer depends from controller name" />
+    <option name="LAST_COMMIT_MESSAGE" value="footer depends from controller name" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -1338,8 +1323,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/fragments/login.jsp">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.40117994">
-          <caret line="8" column="0" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
+        <state vertical-scroll-proportion="0.45132744">
+          <caret line="9" column="12" selection-start-line="9" selection-start-column="12" selection-end-line="9" selection-end-column="12" />
           <folding />
         </state>
       </provider>
