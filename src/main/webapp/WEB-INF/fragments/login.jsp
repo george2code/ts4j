@@ -6,5 +6,3 @@
   <li><a class="btn btn-success" href="/account/login" id="loginLink">Log in</a></li>
   <li><a class="btn btn-danger" href="/account/register" id="registerLink">Sign up</a></li>
 </ul>
-
-${controller}

@@ -5,7 +5,6 @@
 <!DOCTYPE html>
 <html>
     <head>
-        <%--<title><%= PageHelper.GetPageTitle("Test") %></title>--%>
         <title>${title}</title>
 
         <link href="<spring:url value="/assets/favicon.ico"/>" rel="shortcut icon" type="image/x-icon" />
@@ -87,14 +86,6 @@
 
 </body>
 </html>
-
-
-
-
-
-
-
-
 
 
 <%--<div class="page">--%>
