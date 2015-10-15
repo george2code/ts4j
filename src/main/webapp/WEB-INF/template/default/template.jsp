@@ -5,7 +5,8 @@
 <!DOCTYPE html>
 <html>
     <head>
-        <title><%= PageHelper.GetPageTitle("Test") %></title>
+        <%--<title><%= PageHelper.GetPageTitle("Test") %></title>--%>
+        <title>${title}</title>
 
         <link href="<spring:url value="/assets/favicon.ico"/>" rel="shortcut icon" type="image/x-icon" />
         <link href='http://fonts.googleapis.com/css?family=Roboto:400,300,300italic,400italic,500,500italic,700italic,700' rel='stylesheet' type='text/css'>
@@ -80,24 +81,9 @@
 </div><!-- wrap -->
 
 
+    <tiles:insertAttribute name="footer" />
 
-
-<footer id="footer" class="footer">
-    <div class="container">
-        <ul class="nav nav-pills">
-            <li role="presentation"><a href="/home/about">About</a></li>
-            <li role="presentation"><a href="/pages/blog">Blog</a></li>
-            <li role="presentation"><a href="/pages/faq">F.A.Q.</a></li>
-            <li role="presentation"><a href="/pages/conditions">Terms &amp; Conditions</a></li>
-            <li role="presentation"><a href="/pages/confidentialpolitic">Privacy Policy</a></li>
-            <li role="presentation"><a href="/home/contacts">Contacts</a></li>
-        </ul>
-    </div>
-</footer>
-
-
-
-<div id="top" style="position: fixed; bottom: 5px; right: 5px; opacity: 1; cursor: pointer;" title="Scroll Back to Top"></div>
+    <div id="top" style="position: fixed; bottom: 5px; right: 5px; opacity: 1; cursor: pointer;" title="Scroll Back to Top"></div>
 
 </body>
 </html>

@@ -9,4 +9,8 @@ public class PageHelper {
                 MessageFormat.format("{0} | {1}", title, baseTitle) :
                 baseTitle;
     }
+
+    public static String GetControllerName(Class controllerClass) {
+        return controllerClass.getName().replace("ru.trustsystem.", "").replace("Controller", "").toLowerCase();
+    }
 }

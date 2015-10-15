@@ -5,8 +5,8 @@
       <element id="artifact" artifact-name="TrustSystem4J:war exploded" />
       <element id="directory" name="WEB-INF">
         <element id="directory" name="lib">
-          <element id="library" level="project" name="slf4j-api-1.7.12" />
-          <element id="library" level="project" name="slf4j-simple-1.7.12" />
+          <element id="library" level="project" name="slf4j-api-1.6.2" />
+          <element id="library" level="project" name="slf4j-simple-1.6.2" />
         </element>
       </element>
     </root>
