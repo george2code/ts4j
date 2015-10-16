@@ -7,7 +7,7 @@ import org.springframework.web.bind.annotation.RequestMethod;
 import ru.trustsystem.businesslogic.PageHelper;
 
 @Controller
-@RequestMapping("/")
+//@RequestMapping("/")
 public class HelloController {
 	@RequestMapping(method = RequestMethod.GET)
 	public String printWelcome(ModelMap model) {

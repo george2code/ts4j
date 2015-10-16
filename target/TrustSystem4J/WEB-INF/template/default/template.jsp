@@ -1,11 +1,12 @@
-<%@ page import="ru.trustsystem.businesslogic.PageHelper" %>
 <%@ page language="java" contentType="text/html; charset=UTF-8" pageEncoding="UTF-8"%>
 <%@ taglib uri="http://tiles.apache.org/tags-tiles" prefix="tiles"%>
 <%@ taglib prefix="spring" uri="http://www.springframework.org/tags" %>
 <!DOCTYPE html>
 <html>
     <head>
-        <%--<title><%= PageHelper.GetPageTitle("Test") %></title>--%>
+        <meta http-equiv="Content-Type" content="text/html;charset=utf-8">
+        <meta charset="UTF-8">
+
         <title>${title}</title>
 
         <link href="<spring:url value="/assets/favicon.ico"/>" rel="shortcut icon" type="image/x-icon" />
@@ -45,7 +46,7 @@
                 </div>
 
                 <div id="navbar" class="navbar-collapse collapse">
-                    <jsp:include page="../../fragments/login.jsp" />
+                    <jsp:include page="../../pages/fragments/login.jsp" />
                 </div><!--/.navbar-collapse -->
             </div>
         </nav>
@@ -54,10 +55,10 @@
         <nav class="navbar search-panel">
             <div class="container">
                 <ul class="nav nav-pills pull-left">
-                    <%--<li role="presentation"><a href="#"><img src="@Url.Content("~/images/ico_vk.jpg")" alt=""/></a></li>--%>
-                    <%--<li role="presentation"><a href="#"><img src="@Url.Content("~/images/ico_fb.jpg")" alt=""/></a></li>--%>
-                    <%--<li role="presentation"><a href="#"><img src="@Url.Content("~/images/ico_tw.jpg")" alt=""/></a></li>--%>
-                    <%--<li role="presentation"><a href="#"><img src="@Url.Content("~/images/ico_gplus.jpg")" alt=""/></a></li>--%>
+                    <li role="presentation"><a href="#"><img src="<spring:url value="/assets/images/ico_vk.jpg"/>" alt=""/></a></li>
+                    <li role="presentation"><a href="#"><img src="<spring:url value="/assets/images/ico_fb.jpg"/>" alt=""/></a></li>
+                    <li role="presentation"><a href="#"><img src="<spring:url value="/assets/images/ico_tw.jpg"/>" alt=""/></a></li>
+                    <li role="presentation"><a href="#"><img src="<spring:url value="/assets/images/ico_gplus.jpg"/>" alt=""/></a></li>
                 </ul>
 
                 <div class="search">
@@ -87,14 +88,6 @@
 
 </body>
 </html>
-
-
-
-
-
-
-
-
 
 
 <%--<div class="page">--%>
